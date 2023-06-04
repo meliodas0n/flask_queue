@@ -1,78 +1,250 @@
 [
   [
     "Python",
-    27
+    32
   ],
   [
-    "Redis",
-    11
-  ],
-  [
-    "run",
-    10
-  ],
-  [
-    "worker",
-    10
-  ],
-  [
-    "Real",
-    9
-  ],
-  [
-    "process",
-    9
-  ],
-  [
-    "app",
-    9
-  ],
-  [
-    "Heroku",
-    8
-  ],
-  [
-    "Part",
-    8
-  ],
-  [
-    "web",
-    7
-  ],
-  [
-    "environment",
-    7
-  ],
-  [
-    "dyno",
-    5
-  ],
-  [
-    "staging",
-    5
-  ],
-  [
-    "see",
-    5
-  ],
-  [
-    "server",
-    5
-  ],
-  [
-    "code",
-    5
-  ],
-  [
-    "heroku",
-    5
-  ],
-  [
-    "get",
-    5
+    "import",
+    19
   ],
   [
     "Flask",
+    17
+  ],
+  [
+    "words",
+    17
+  ],
+  [
+    "text",
+    15
+  ],
+  [
+    "URL",
+    15
+  ],
+  [
+    "results",
+    15
+  ],
+  [
+    "get",
+    14
+  ],
+  [
+    "requests",
+    12
+  ],
+  [
+    "class=",
+    12
+  ],
+  [
+    "list",
+    12
+  ],
+  [
+    "Real",
+    10
+  ],
+  [
+    "app",
+    10
+  ],
+  [
+    "form",
+    10
+  ],
+  [
+    "Part",
+    9
+  ],
+  [
+    "used",
+    9
+  ],
+  [
+    "page",
+    9
+  ],
+  [
+    "url",
+    9
+  ],
+  [
+    "errors",
+    9
+  ],
+  [
+    "BeautifulSoup",
+    8
+  ],
+  [
+    "div",
+    8
+  ],
+  [
+    "/div",
+    8
+  ],
+  [
+    "python",
+    7
+  ],
+  [
+    "display",
+    7
+  ],
+  [
+    "br",
+    7
+  ],
+  [
+    "render_template",
+    7
+  ],
+  [
+    "use",
+    7
+  ],
+  [
+    "count",
+    7
+  ],
+  [
+    "Processing",
+    6
+  ],
+  [
+    "flask",
+    6
+  ],
+  [
+    "Remove",
+    6
+  ],
+  [
+    "process",
+    6
+  ],
+  [
+    "word",
+    6
+  ],
+  [
+    "nltk",
+    6
+  ],
+  [
+    "SQLAlchemy",
+    6
+  ],
+  [
+    "processing",
+    6
+  ],
+  [
+    "request",
+    6
+  ],
+  [
+    "index",
+    6
+  ],
+  [
+    "POST",
+    6
+  ],
+  [
+    "try",
+    6
+  ],
+  [
+    "site",
+    6
+  ],
+  [
+    "Text",
+    5
+  ],
+  [
+    "Requests",
+    5
+  ],
+  [
+    "video",
+    5
+  ],
+  [
+    "counts",
+    5
+  ],
+  [
+    "well",
+    5
+  ],
+  [
+    "access",
+    5
+  ],
+  [
+    "web",
+    5
+  ],
+  [
+    "handle",
+    5
+  ],
+  [
+    "route",
+    5
+  ],
+  [
+    "add",
+    5
+  ],
+  [
+    "max-width",
+    5
+  ],
+  [
+    "error",
+    5
+  ],
+  [
+    "added",
+    5
+  ],
+  [
+    "template",
+    5
+  ],
+  [
+    "GET",
+    5
+  ],
+  [
+    "w",
+    5
+  ],
+  [
+    "sorted",
+    5
+  ],
+  [
+    "result",
+    5
+  ],
+  [
+    "NLTK",
+    4
+  ],
+  [
+    "new",
+    4
+  ],
+  [
+    "Tutorial",
     4
   ],
   [
@@ -84,11 +256,15 @@
     4
   ],
   [
-    "Test",
+    "time",
     4
   ],
   [
-    "Push",
+    "happening",
+    4
+  ],
+  [
+    "Results",
     4
   ],
   [
@@ -96,19 +272,107 @@
     4
   ],
   [
-    "Remove",
+    "tutorial",
     4
   ],
   [
-    "local",
+    "Set",
     4
   ],
   [
-    "processes",
+    "environment",
     4
   ],
   [
-    "wordcount-stage",
+    "staging",
+    4
+  ],
+  [
+    "using",
+    4
+  ],
+  [
+    "see",
+    4
+  ],
+  [
+    "library",
+    4
+  ],
+  [
+    "let",
+    4
+  ],
+  [
+    "file",
+    4
+  ],
+  [
+    "HTML",
+    4
+  ],
+  [
+    "html",
+    4
+  ],
+  [
+    "Wordcount",
+    4
+  ],
+  [
+    "name=",
+    4
+  ],
+  [
+    "type=",
+    4
+  ],
+  [
+    "script",
+    4
+  ],
+  [
+    "src=",
+    4
+  ],
+  [
+    "/script",
+    4
+  ],
+  [
+    "__name__",
+    4
+  ],
+  [
+    "methods=",
+    4
+  ],
+  [
+    "'GET",
+    4
+  ],
+  [
+    "'POST",
+    4
+  ],
+  [
+    "return",
+    4
+  ],
+  [
+    "'index.html",
+    4
+  ],
+  [
+    "user",
+    4
+  ],
+  [
+    "r",
+    4
+  ],
+  [
+    "except",
     4
   ],
   [
@@ -116,24 +380,36 @@
     4
   ],
   [
-    "test",
+    "'s",
     4
   ],
   [
-    "one",
+    "valid",
     4
   ],
   [
-    "Staging",
-    3
+    "dictionary",
+    4
   ],
   [
-    "Start",
-    3
+    "stops",
+    4
   ],
   [
-    "video",
-    3
+    "Counter",
+    4
+  ],
+  [
+    "raw",
+    4
+  ],
+  [
+    "stop",
+    4
+  ],
+  [
+    "created",
+    4
   ],
   [
     "courses",
@@ -152,6 +428,10 @@
     3
   ],
   [
+    "Video",
+    3
+  ],
+  [
     "Join",
     3
   ],
@@ -160,15 +440,15 @@
     3
   ],
   [
+    "spam",
+    3
+  ],
+  [
     "community",
     3
   ],
   [
-    "devops",
-    3
-  ],
-  [
-    "flask",
+    "data-science",
     3
   ],
   [
@@ -180,7 +460,23 @@
     3
   ],
   [
-    "Worker",
+    "Install",
+    3
+  ],
+  [
+    "Requirements",
+    3
+  ],
+  [
+    "Index",
+    3
+  ],
+  [
+    "Route",
+    3
+  ],
+  [
+    "Display",
     3
   ],
   [
@@ -196,43 +492,23 @@
     3
   ],
   [
-    "set",
+    "scrape",
     3
   ],
   [
-    "word",
+    "webpage",
     3
   ],
   [
-    "Set",
+    "See",
     3
   ],
   [
-    "using",
+    "Free",
     3
   ],
   [
-    "make",
-    3
-  ],
-  [
-    "git",
-    3
-  ],
-  [
-    "ran",
-    3
-  ],
-  [
-    "REDISTOGO_URL",
-    3
-  ],
-  [
-    "variable",
-    3
-  ],
-  [
-    "URI",
+    "Click",
     3
   ],
   [
@@ -240,11 +516,155 @@
     3
   ],
   [
-    "Keep",
+    "Heroku",
     3
   ],
   [
-    "web.1",
+    "database",
+    3
+  ],
+  [
+    "Update",
+    3
+  ],
+  [
+    "make",
+    3
+  ],
+  [
+    "code",
+    3
+  ],
+  [
+    "HTTP",
+    3
+  ],
+  [
+    "-m",
+    3
+  ],
+  [
+    "app.py",
+    3
+  ],
+  [
+    "templates",
+    3
+  ],
+  [
+    "index.html",
+    3
+  ],
+  [
+    "style",
+    3
+  ],
+  [
+    "input",
+    3
+  ],
+  [
+    "id=",
+    3
+  ],
+  [
+    "style=",
+    3
+  ],
+  [
+    "300px",
+    3
+  ],
+  [
+    "button",
+    3
+  ],
+  [
+    "endfor",
+    3
+  ],
+  [
+    "os",
+    3
+  ],
+  [
+    "flask_sqlalchemy",
+    3
+  ],
+  [
+    "Result",
+    3
+  ],
+  [
+    "app.route",
+    3
+  ],
+  [
+    "def",
+    3
+  ],
+  [
+    "manage.py",
+    3
+  ],
+  [
+    "runserver",
+    3
+  ],
+  [
+    "back",
+    3
+  ],
+  [
+    "errors.append",
+    3
+  ],
+  [
+    "Unable",
+    3
+  ],
+  [
+    "errors=errors",
+    3
+  ],
+  [
+    "update",
+    3
+  ],
+  [
+    "Finally",
+    3
+  ],
+  [
+    "https",
+    3
+  ],
+  [
+    "tokens",
+    3
+  ],
+  [
+    "punctuation",
+    3
+  ],
+  [
+    "raw_words",
+    3
+  ],
+  [
+    "tokenizers",
+    3
+  ],
+  [
+    "table",
+    3
+  ],
+  [
+    "next",
+    3
+  ],
+  [
+    "Keep",
     3
   ],
   [
@@ -268,14 +688,6 @@
     2
   ],
   [
-    "Updating",
-    2
-  ],
-  [
-    "Environment",
-    2
-  ],
-  [
     "Tutorials",
     2
   ],
@@ -289,6 +701,10 @@
   ],
   [
     "Topics",
+    2
+  ],
+  [
+    "specific",
     2
   ],
   [
@@ -316,10 +732,6 @@
     2
   ],
   [
-    "new",
-    2
-  ],
-  [
     "world",
     2
   ],
@@ -336,31 +748,11 @@
     2
   ],
   [
-    "Tutorial",
-    2
-  ],
-  [
     "Search",
     2
   ],
   [
-    "spam",
-    2
-  ],
-  [
     "Unsubscribe",
-    2
-  ],
-  [
-    "time",
-    2
-  ],
-  [
-    "projects",
-    2
-  ],
-  [
-    "python",
     2
   ],
   [
@@ -372,7 +764,11 @@
     2
   ],
   [
-    "Conclusion",
+    "Refactor",
+    2
+  ],
+  [
+    "Summary",
     2
   ],
   [
@@ -380,15 +776,15 @@
     2
   ],
   [
-    "look",
+    "part",
     2
   ],
   [
-    "single",
+    "going",
     2
   ],
   [
-    "update",
+    "Upgraded",
     2
   ],
   [
@@ -396,19 +792,39 @@
     2
   ],
   [
+    "latest",
+    2
+  ],
+  [
+    "versions",
+    2
+  ],
+  [
+    "details",
+    2
+  ],
+  [
     "support",
     2
   ],
   [
-    "text",
+    "Bonus",
     2
   ],
   [
-    "development",
+    "shows",
     2
   ],
   [
-    "production",
+    "build",
+    2
+  ],
+  [
+    "step-by-step",
+    2
+  ],
+  [
+    "based",
     2
   ],
   [
@@ -416,23 +832,19 @@
     2
   ],
   [
-    "handle",
-    2
-  ],
-  [
     "back-end",
     2
   ],
   [
-    "processing",
+    "Natural",
     2
   ],
   [
-    "Angular",
+    "Language",
     2
   ],
   [
-    "request",
+    "Toolkit",
     2
   ],
   [
@@ -440,43 +852,351 @@
     2
   ],
   [
-    "Update",
+    "Redis",
     2
   ],
   [
-    "pushing",
+    "queue",
     2
   ],
   [
-    "needs",
+    "Angular",
     2
   ],
   [
-    "add",
+    "Push",
     2
   ],
   [
-    "push",
+    "run",
     2
   ],
   [
-    "open",
+    "Create",
     2
   ],
   [
-    "happen",
+    "frequency",
     2
   ],
   [
-    "post",
+    "language",
     2
   ],
   [
-    "Think",
+    "Navigate",
     2
   ],
   [
-    "locally",
+    "directory",
+    2
+  ],
+  [
+    "install",
+    2
+  ],
+  [
+    "pip",
+    2
+  ],
+  [
+    "set",
+    2
+  ],
+  [
+    "First",
+    2
+  ],
+  [
+    "mkdir",
+    2
+  ],
+  [
+    "DOCTYPE",
+    2
+  ],
+  [
+    "head",
+    2
+  ],
+  [
+    "title",
+    2
+  ],
+  [
+    "/title",
+    2
+  ],
+  [
+    "meta",
+    2
+  ],
+  [
+    "viewport",
+    2
+  ],
+  [
+    "content=",
+    2
+  ],
+  [
+    "width=device-width",
+    2
+  ],
+  [
+    "initial-scale=1.0",
+    2
+  ],
+  [
+    "link",
+    2
+  ],
+  [
+    "href=",
+    2
+  ],
+  [
+    "rel=",
+    2
+  ],
+  [
+    "stylesheet",
+    2
+  ],
+  [
+    "media=",
+    2
+  ],
+  [
+    "screen",
+    2
+  ],
+  [
+    ".container",
+    2
+  ],
+  [
+    "1000px",
+    2
+  ],
+  [
+    "/style",
+    2
+  ],
+  [
+    "/head",
+    2
+  ],
+  [
+    "body",
+    2
+  ],
+  [
+    "container",
+    2
+  ],
+  [
+    "h1",
+    2
+  ],
+  [
+    "/h1",
+    2
+  ],
+  [
+    "role=",
+    2
+  ],
+  [
+    "form-group",
+    2
+  ],
+  [
+    "form-control",
+    2
+  ],
+  [
+    "url-box",
+    2
+  ],
+  [
+    "placeholder=",
+    2
+  ],
+  [
+    "Enter",
+    2
+  ],
+  [
+    "submit",
+    2
+  ],
+  [
+    "btn",
+    2
+  ],
+  [
+    "btn-default",
+    2
+  ],
+  [
+    "Submit",
+    2
+  ],
+  [
+    "/button",
+    2
+  ],
+  [
+    "/form",
+    2
+  ],
+  [
+    "h4",
+    2
+  ],
+  [
+    "/h4",
+    2
+  ],
+  [
+    "/body",
+    2
+  ],
+  [
+    "/html",
+    2
+  ],
+  [
+    "users",
+    2
+  ],
+  [
+    "enter",
+    2
+  ],
+  [
+    "Jinja",
+    2
+  ],
+  [
+    "loop",
+    2
+  ],
+  [
+    "iterate",
+    2
+  ],
+  [
+    "serve",
+    2
+  ],
+  [
+    "app.config.from_object",
+    2
+  ],
+  [
+    "os.environ",
+    2
+  ],
+  [
+    "'APP_SETTINGS",
+    2
+  ],
+  [
+    "app.config",
+    2
+  ],
+  [
+    "'SQLALCHEMY_TRACK_MODIFICATIONS",
+    2
+  ],
+  [
+    "db",
+    2
+  ],
+  [
+    "models",
+    2
+  ],
+  [
+    "'__main__",
+    2
+  ],
+  [
+    "app.run",
+    2
+  ],
+  [
+    "test",
+    2
+  ],
+  [
+    "http",
+    2
+  ],
+  [
+    "grab",
+    2
+  ],
+  [
+    "like",
+    2
+  ],
+  [
+    "request.method",
+    2
+  ],
+  [
+    "entered",
+    2
+  ],
+  [
+    "request.form",
+    2
+  ],
+  [
+    "'url",
+    2
+  ],
+  [
+    "requests.get",
+    2
+  ],
+  [
+    "r.text",
+    2
+  ],
+  [
+    "Please",
+    2
+  ],
+  [
+    "results=results",
+    2
+  ],
+  [
+    "Make",
+    2
+  ],
+  [
+    "object",
+    2
+  ],
+  [
+    "Next",
+    2
+  ],
+  [
+    "rendered",
+    2
+  ],
+  [
+    "Let",
+    2
+  ],
+  [
+    "able",
     2
   ],
   [
@@ -484,71 +1204,163 @@
     2
   ],
   [
+    "remove",
+    2
+  ],
+  [
+    "no_stop_words",
+    2
+  ],
+  [
+    "save",
+    2
+  ],
+  [
+    "no_stop_words_count.items",
+    2
+  ],
+  [
+    "key=operator.itemgetter",
+    2
+  ],
+  [
+    "reverse=True",
+    2
+  ],
+  [
+    "called",
+    2
+  ],
+  [
+    "individual",
+    2
+  ],
+  [
+    "order",
+    2
+  ],
+  [
     "need",
     2
   ],
   [
-    "worker.py",
+    "create",
     2
   ],
   [
-    "//localhost:6379",
+    "nltk_data",
     2
   ],
   [
-    "use",
+    "Download",
     2
   ],
   [
-    "working",
+    "click",
     2
   ],
   [
-    "running",
+    "punkt",
     2
   ],
   [
-    "method",
+    "Count",
     2
   ],
   [
-    "heroku.sh",
+    "Words",
     2
   ],
   [
-    "Procfile",
+    "want",
     2
   ],
   [
-    "application",
+    "final",
     2
   ],
   [
-    "work",
+    "anything",
     2
   ],
   [
-    "let",
+    "comprehension",
     2
   ],
   [
-    "Sample",
+    "without",
     2
   ],
   [
-    "App",
+    "number",
     2
   ],
   [
-    "Leave",
+    "lot",
     2
   ],
   [
-    "comments",
+    "col-sm-5",
     2
   ],
   [
-    "tutorial",
+    "col-sm-offset-1",
+    2
+  ],
+  [
+    "tr",
+    2
+  ],
+  [
+    "th",
+    2
+  ],
+  [
+    "/th",
+    2
+  ],
+  [
+    "/tr",
+    2
+  ],
+  [
+    "td",
+    2
+  ],
+  [
+    "/td",
+    2
+  ],
+  [
+    "Test",
+    2
+  ],
+  [
+    "though",
+    2
+  ],
+  [
+    "significantly",
+    2
+  ],
+  [
+    "commit",
+    2
+  ],
+  [
+    "push",
+    2
+  ],
+  [
+    "English",
+    2
+  ],
+  [
+    "english.pickle",
+    2
+  ],
+  [
+    "Send",
     2
   ],
   [
@@ -565,10 +1377,6 @@
   ],
   [
     "Access",
-    2
-  ],
-  [
-    "access",
     2
   ],
   [
@@ -606,6 +1414,10 @@
   [
     "Policy",
     2
+  ],
+  [
+    "Start",
+    1
   ],
   [
     "Learn",
@@ -649,10 +1461,6 @@
   ],
   [
     "\u2192Focus",
-    1
-  ],
-  [
-    "specific",
     1
   ],
   [
@@ -740,10 +1548,6 @@
     1
   ],
   [
-    "Video",
-    1
-  ],
-  [
     "Instructor",
     1
   ],
@@ -788,7 +1592,7 @@
     1
   ],
   [
-    "data-science",
+    "devops",
     1
   ],
   [
@@ -812,6 +1616,10 @@
     1
   ],
   [
+    "projects",
+    1
+  ],
+  [
     "testing",
     1
   ],
@@ -824,23 +1632,15 @@
     1
   ],
   [
-    "part",
+    "series",
     1
   ],
   [
-    "count",
-    1
-  ],
-  [
-    "functionality",
+    "contents",
     1
   ],
   [
     "Updates",
-    1
-  ],
-  [
-    "Upgraded",
     1
   ],
   [
@@ -852,7 +1652,7 @@
     1
   ],
   [
-    "building\u2014A",
+    "building",
     1
   ],
   [
@@ -868,15 +1668,7 @@
     1
   ],
   [
-    "based",
-    1
-  ],
-  [
     "given",
-    1
-  ],
-  [
-    "URL",
     1
   ],
   [
@@ -884,7 +1676,19 @@
     1
   ],
   [
+    "local",
+    1
+  ],
+  [
+    "development",
+    1
+  ],
+  [
     "deploy",
+    1
+  ],
+  [
+    "production",
     1
   ],
   [
@@ -893,14 +1697,6 @@
   ],
   [
     "PostgreSQL",
-    1
-  ],
-  [
-    "database",
-    1
-  ],
-  [
-    "SQLAlchemy",
     1
   ],
   [
@@ -924,42 +1720,6 @@
     1
   ],
   [
-    "scrape",
-    1
-  ],
-  [
-    "counts",
-    1
-  ],
-  [
-    "webpage",
-    1
-  ],
-  [
-    "requests",
-    1
-  ],
-  [
-    "BeautifulSoup",
-    1
-  ],
-  [
-    "Natural",
-    1
-  ],
-  [
-    "Language",
-    1
-  ],
-  [
-    "Toolkit",
-    1
-  ],
-  [
-    "NLTK",
-    1
-  ],
-  [
     "libraries",
     1
   ],
@@ -973,10 +1733,6 @@
   ],
   [
     "task",
-    1
-  ],
-  [
-    "queue",
     1
   ],
   [
@@ -1000,6 +1756,10 @@
     1
   ],
   [
+    "server",
+    1
+  ],
+  [
     "setting",
     1
   ],
@@ -1009,6 +1769,18 @@
   ],
   [
     "two",
+    1
+  ],
+  [
+    "processes",
+    1
+  ],
+  [
+    "worker",
+    1
+  ],
+  [
+    "single",
     1
   ],
   [
@@ -1028,23 +1800,11 @@
     1
   ],
   [
-    "Create",
-    1
-  ],
-  [
     "custom",
     1
   ],
   [
     "Directive",
-    1
-  ],
-  [
-    "display",
-    1
-  ],
-  [
-    "frequency",
     1
   ],
   [
@@ -1076,11 +1836,55 @@
     1
   ],
   [
-    "state",
+    "Tools",
     1
   ],
   [
-    "fixed",
+    "sending",
+    1
+  ],
+  [
+    "tool",
+    1
+  ],
+  [
+    "scraping",
+    1
+  ],
+  [
+    "parsing",
+    1
+  ],
+  [
+    "documents",
+    1
+  ],
+  [
+    "natural",
+    1
+  ],
+  [
+    "project",
+    1
+  ],
+  [
+    "activate",
+    1
+  ],
+  [
+    "virtual",
+    1
+  ],
+  [
+    "via",
+    1
+  ],
+  [
+    "autoenv",
+    1
+  ],
+  [
+    "requirements",
     1
   ],
   [
@@ -1092,71 +1896,143 @@
     1
   ],
   [
-    "-A",
+    "requests==2.22.0",
     1
   ],
   [
-    "commit",
+    "beautifulsoup4==4.8.2",
     1
   ],
   [
-    "-m",
+    "nltk==3.4.5",
     1
   ],
   [
-    "added",
+    "freeze",
     1
   ],
   [
-    "angular",
+    "requirements.txt",
     1
   ],
   [
-    "backend",
+    "adsRefactor",
     1
   ],
   [
-    "stage",
+    "started",
     1
   ],
   [
-    "master",
+    "rid",
     1
   ],
   [
-    "Make",
+    "hello",
     1
   ],
   [
-    "replace",
+    "render",
     1
   ],
   [
-    "name",
+    "accept",
     1
   ],
   [
-    "Try",
+    "URLs",
     1
   ],
   [
-    "quick",
+    "folder",
     1
   ],
   [
-    "counting",
+    "hold",
     1
   ],
   [
-    "feature",
+    "touch",
     1
   ],
   [
-    "works",
+    "templates/index.html",
     1
   ],
   [
-    "Nothing",
+    "basic",
+    1
+  ],
+  [
+    "//netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+    1
+  ],
+  [
+    "method='POST",
+    1
+  ],
+  [
+    "action='/",
+    1
+  ],
+  [
+    "autofocus",
+    1
+  ],
+  [
+    "required",
+    1
+  ],
+  [
+    "//code.jquery.com/jquery-2.2.1.min.js",
+    1
+  ],
+  [
+    "//netdna.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js",
+    1
+  ],
+  [
+    "Bootstrap",
+    1
+  ],
+  [
+    "bit",
+    1
+  ],
+  [
+    "completely",
+    1
+  ],
+  [
+    "hideous",
+    1
+  ],
+  [
+    "box",
+    1
+  ],
+  [
+    "Additionally",
+    1
+  ],
+  [
+    "utilized",
+    1
+  ],
+  [
+    "displaying",
+    1
+  ],
+  [
+    "one",
+    1
+  ],
+  [
+    "False",
+    1
+  ],
+  [
+    "methods",
     1
   ],
   [
@@ -1164,31 +2040,151 @@
     1
   ],
   [
-    "Network",
+    "eventually",
     1
   ],
   [
-    "tab",
+    "submissions",
     1
   ],
   [
-    "Chrome",
+    "respectively",
     1
   ],
   [
-    "Developer",
+    "Fire",
     1
   ],
   [
-    "Tools",
+    "//localhost:5000/",
     1
   ],
   [
-    "/start",
+    "staring",
     1
   ],
   [
-    "endpoint",
+    "submitted",
+    1
+  ],
+  [
+    "Change",
+    1
+  ],
+  [
+    "print",
+    1
+  ],
+  [
+    "imports",
+    1
+  ],
+  [
+    "imported",
+    1
+  ],
+  [
+    "former",
+    1
+  ],
+  [
+    "send",
+    1
+  ],
+  [
+    "external",
+    1
+  ],
+  [
+    "user-provided",
+    1
+  ],
+  [
+    "latter",
+    1
+  ],
+  [
+    "within",
+    1
+  ],
+  [
+    "variables",
+    1
+  ],
+  [
+    "capture",
+    1
+  ],
+  [
+    "passed",
+    1
+  ],
+  [
+    "Within",
+    1
+  ],
+  [
+    "view",
+    1
+  ],
+  [
+    "checked",
+    1
+  ],
+  [
+    "POST-",
+    1
+  ],
+  [
+    "grabbed",
+    1
+  ],
+  [
+    "value",
+    1
+  ],
+  [
+    "assigned",
+    1
+  ],
+  [
+    "variable",
+    1
+  ],
+  [
+    "exception",
+    1
+  ],
+  [
+    "necessary",
+    1
+  ],
+  [
+    "appended",
+    1
+  ],
+  [
+    "generic",
+    1
+  ],
+  [
+    "message",
+    1
+  ],
+  [
+    "including",
+    1
+  ],
+  [
+    "simply",
+    1
+  ],
+  [
+    "type",
+    1
+  ],
+  [
+    "terminal",
     1
   ],
   [
@@ -1196,127 +2192,811 @@
     1
   ],
   [
-    "Internal",
+    "Note",
     1
   ],
   [
-    "Server",
+    "includes",
     1
   ],
   [
-    "Error",
+    "Otherwise",
     1
   ],
   [
-    "status",
+    "application",
     1
   ],
   [
-    "adsRedis",
+    "detect",
     1
   ],
   [
-    "adding",
+    "adsText",
     1
   ],
   [
-    "addons",
+    "hand",
     1
   ],
   [
-    "create",
+    "end",
     1
   ],
   [
-    "redistogo",
+    "walk",
     1
   ],
   [
-    "nano",
+    "operator",
     1
   ],
   [
-    "command",
+    "stop_words",
     1
   ],
   [
-    "config",
+    "collections",
     1
   ],
   [
-    "grep",
+    "bs4",
     1
   ],
   [
-    "linking",
+    "True",
     1
   ],
   [
-    "actually",
+    "person",
     1
   ],
   [
-    "already",
+    "'html.parser",
     1
   ],
   [
-    "Open",
+    ".get_text",
     1
   ],
   [
-    "find",
+    "nltk.data.path.append",
     1
   ],
   [
-    "redis_url",
+    "'./nltk_data/",
     1
   ],
   [
-    "os.getenv",
+    "path",
     1
   ],
   [
-    "'REDISTOGO_URL",
+    "nltk.word_tokenize",
     1
   ],
   [
-    "'redis",
+    "nltk.Text",
     1
   ],
   [
-    "first",
+    "nonPunct",
     1
   ],
   [
-    "tried",
+    "re.compile",
     1
   ],
   [
-    "associated",
+    "A-Za-z",
     1
   ],
   [
-    "exist",
+    "nonPunct.match",
     1
   ],
   [
-    "like",
+    "raw_word_count",
     1
   ],
   [
-    "used",
+    "w.lower",
     1
   ],
   [
-    "redis",
+    "no_stop_words_count",
     1
   ],
   [
-    "Perfect",
+    "url=url",
     1
   ],
   [
-    "check",
+    "result_all=raw_word_count",
+    1
+  ],
+  [
+    "result_no_stop_words=no_stop_words_count",
+    1
+  ],
+  [
+    "db.session.add",
+    1
+  ],
+  [
+    "db.session.commit",
+    1
+  ],
+  [
+    "item",
+    1
+  ],
+  [
+    "stop_words.py",
+    1
+  ],
+  [
+    "'me",
+    1
+  ],
+  [
+    "'my",
+    1
+  ],
+  [
+    "'myself",
+    1
+  ],
+  [
+    "'we",
+    1
+  ],
+  [
+    "'our",
+    1
+  ],
+  [
+    "'ours",
+    1
+  ],
+  [
+    "'ourselves",
+    1
+  ],
+  [
+    "'you",
+    1
+  ],
+  [
+    "'your",
+    1
+  ],
+  [
+    "'yours",
+    1
+  ],
+  [
+    "'yourself",
+    1
+  ],
+  [
+    "'yourselves",
+    1
+  ],
+  [
+    "'he",
+    1
+  ],
+  [
+    "'him",
+    1
+  ],
+  [
+    "'his",
+    1
+  ],
+  [
+    "'himself",
+    1
+  ],
+  [
+    "'she",
+    1
+  ],
+  [
+    "'her",
+    1
+  ],
+  [
+    "'hers",
+    1
+  ],
+  [
+    "'herself",
+    1
+  ],
+  [
+    "'it",
+    1
+  ],
+  [
+    "'its",
+    1
+  ],
+  [
+    "'itself",
+    1
+  ],
+  [
+    "'they",
+    1
+  ],
+  [
+    "'them",
+    1
+  ],
+  [
+    "'their",
+    1
+  ],
+  [
+    "'theirs",
+    1
+  ],
+  [
+    "'themselves",
+    1
+  ],
+  [
+    "'what",
+    1
+  ],
+  [
+    "'which",
+    1
+  ],
+  [
+    "'who",
+    1
+  ],
+  [
+    "'whom",
+    1
+  ],
+  [
+    "'this",
+    1
+  ],
+  [
+    "'that",
+    1
+  ],
+  [
+    "'these",
+    1
+  ],
+  [
+    "'those",
+    1
+  ],
+  [
+    "'am",
+    1
+  ],
+  [
+    "'is",
+    1
+  ],
+  [
+    "'are",
+    1
+  ],
+  [
+    "'was",
+    1
+  ],
+  [
+    "'were",
+    1
+  ],
+  [
+    "'be",
+    1
+  ],
+  [
+    "'been",
+    1
+  ],
+  [
+    "'being",
+    1
+  ],
+  [
+    "'have",
+    1
+  ],
+  [
+    "'has",
+    1
+  ],
+  [
+    "'had",
+    1
+  ],
+  [
+    "'having",
+    1
+  ],
+  [
+    "'do",
+    1
+  ],
+  [
+    "'does",
+    1
+  ],
+  [
+    "'did",
+    1
+  ],
+  [
+    "'doing",
+    1
+  ],
+  [
+    "'an",
+    1
+  ],
+  [
+    "'the",
+    1
+  ],
+  [
+    "'and",
+    1
+  ],
+  [
+    "'but",
+    1
+  ],
+  [
+    "'if",
+    1
+  ],
+  [
+    "'or",
+    1
+  ],
+  [
+    "'because",
+    1
+  ],
+  [
+    "'as",
+    1
+  ],
+  [
+    "'until",
+    1
+  ],
+  [
+    "'while",
+    1
+  ],
+  [
+    "'of",
+    1
+  ],
+  [
+    "'at",
+    1
+  ],
+  [
+    "'by",
+    1
+  ],
+  [
+    "'for",
+    1
+  ],
+  [
+    "'with",
+    1
+  ],
+  [
+    "'about",
+    1
+  ],
+  [
+    "'against",
+    1
+  ],
+  [
+    "'between",
+    1
+  ],
+  [
+    "'into",
+    1
+  ],
+  [
+    "'through",
+    1
+  ],
+  [
+    "'during",
+    1
+  ],
+  [
+    "'before",
+    1
+  ],
+  [
+    "'after",
+    1
+  ],
+  [
+    "'above",
+    1
+  ],
+  [
+    "'below",
+    1
+  ],
+  [
+    "'to",
+    1
+  ],
+  [
+    "'from",
+    1
+  ],
+  [
+    "'up",
+    1
+  ],
+  [
+    "'down",
+    1
+  ],
+  [
+    "'in",
+    1
+  ],
+  [
+    "'out",
+    1
+  ],
+  [
+    "'on",
+    1
+  ],
+  [
+    "'off",
+    1
+  ],
+  [
+    "'over",
+    1
+  ],
+  [
+    "'under",
+    1
+  ],
+  [
+    "'again",
+    1
+  ],
+  [
+    "'further",
+    1
+  ],
+  [
+    "'then",
+    1
+  ],
+  [
+    "'once",
+    1
+  ],
+  [
+    "'here",
+    1
+  ],
+  [
+    "'there",
+    1
+  ],
+  [
+    "'when",
+    1
+  ],
+  [
+    "'where",
+    1
+  ],
+  [
+    "'why",
+    1
+  ],
+  [
+    "'how",
+    1
+  ],
+  [
+    "'all",
+    1
+  ],
+  [
+    "'any",
+    1
+  ],
+  [
+    "'both",
+    1
+  ],
+  [
+    "'each",
+    1
+  ],
+  [
+    "'few",
+    1
+  ],
+  [
+    "'more",
+    1
+  ],
+  [
+    "'most",
+    1
+  ],
+  [
+    "'other",
+    1
+  ],
+  [
+    "'some",
+    1
+  ],
+  [
+    "'such",
+    1
+  ],
+  [
+    "'no",
+    1
+  ],
+  [
+    "'nor",
+    1
+  ],
+  [
+    "'not",
+    1
+  ],
+  [
+    "'only",
+    1
+  ],
+  [
+    "'own",
+    1
+  ],
+  [
+    "'same",
+    1
+  ],
+  [
+    "'so",
+    1
+  ],
+  [
+    "'than",
+    1
+  ],
+  [
+    "'too",
+    1
+  ],
+  [
+    "'very",
+    1
+  ],
+  [
+    "'t",
+    1
+  ],
+  [
+    "'can",
+    1
+  ],
+  [
+    "'will",
+    1
+  ],
+  [
+    "'just",
+    1
+  ],
+  [
+    "'don",
+    1
+  ],
+  [
+    "'should",
+    1
+  ],
+  [
+    "'now",
+    1
+  ],
+  [
+    "'id",
+    1
+  ],
+  [
+    "'var",
+    1
+  ],
+  [
+    "'function",
+    1
+  ],
+  [
+    "'js",
+    1
+  ],
+  [
+    "'d",
+    1
+  ],
+  [
+    "'script",
+    1
+  ],
+  [
+    "'\\'script",
+    1
+  ],
+  [
+    "'fjs",
+    1
+  ],
+  [
+    "'document",
+    1
+  ],
+  [
+    "b",
+    1
+  ],
+  [
+    "g",
+    1
+  ],
+  [
+    "e",
+    1
+  ],
+  [
+    "c",
+    1
+  ],
+  [
+    "f",
+    1
+  ],
+  [
+    "h",
+    1
+  ],
+  [
+    "l",
+    1
+  ],
+  [
+    "k'",
+    1
+  ],
+  [
+    "beautifulsoup",
+    1
+  ],
+  [
+    "clean",
+    1
+  ],
+  [
+    "removing",
+    1
+  ],
+  [
+    "tags",
+    1
+  ],
+  [
+    "got",
+    1
+  ],
+  [
+    "to-",
+    1
+  ],
+  [
+    "Tokenize",
+    1
+  ],
+  [
+    "break",
+    1
+  ],
+  [
+    "Turn",
+    1
+  ],
+  [
+    "work",
+    1
+  ],
+  [
+    "properly",
+    1
+  ],
+  [
+    "download",
+    1
+  ],
+  [
+    "correct",
+    1
+  ],
+  [
+    "nltk.downloader",
+    1
+  ],
+  [
+    "installation",
+    1
+  ],
+  [
+    "window",
+    1
+  ],
+  [
+    "appears",
+    1
+  ],
+  [
+    "Directory",
+    1
+  ],
+  [
+    "whatever_the_absolute_path_to_your_app_is/nltk_data/",
+    1
+  ],
+  [
+    "Models",
+    1
+  ],
+  [
+    "tab",
+    1
+  ],
+  [
+    "select",
+    1
+  ],
+  [
+    "Identifier",
+    1
+  ],
+  [
+    "column",
+    1
+  ],
+  [
+    "Check",
     1
   ],
   [
@@ -1328,55 +3008,315 @@
     1
   ],
   [
-    "setup",
+    "information",
     1
   ],
   [
-    "allows",
+    "Punctuation",
     1
   ],
   [
-    "per",
+    "Raw",
     1
   ],
   [
-    "case",
+    "Since",
     1
   ],
   [
-    "another",
+    "counted",
     1
   ],
   [
-    "However",
+    "regular",
     1
   ],
   [
-    "since",
+    "expression",
     1
   ],
   [
-    "small",
+    "matched",
     1
   ],
   [
-    "project",
+    "standard",
     1
   ],
   [
-    "workaround",
+    "alphabet",
     1
   ],
   [
-    "employ",
+    "numbers",
     1
   ],
   [
-    "mind",
+    "tallied",
     1
   ],
   [
-    "recommended",
+    "times",
+    1
+  ],
+  [
+    "appeared",
+    1
+  ],
+  [
+    "Stop",
+    1
+  ],
+  [
+    "output",
+    1
+  ],
+  [
+    "contains",
+    1
+  ],
+  [
+    "likely",
+    1
+  ],
+  [
+    "i.e.",
+    1
+  ],
+  [
+    "forth",
+    1
+  ],
+  [
+    "include",
+    1
+  ],
+  [
+    "keys",
+    1
+  ],
+  [
+    "associated",
+    1
+  ],
+  [
+    "values",
+    1
+  ],
+  [
+    "finally",
+    1
+  ],
+  [
+    "method",
+    1
+  ],
+  [
+    "representation",
+    1
+  ],
+  [
+    "data",
+    1
+  ],
+  [
+    "highest",
+    1
+  ],
+  [
+    "top",
+    1
+  ],
+  [
+    "means",
+    1
+  ],
+  [
+    "sorting",
+    1
+  ],
+  [
+    "robust",
+    1
+  ],
+  [
+    "stopwords",
+    1
+  ],
+  [
+    "corpus",
+    1
+  ],
+  [
+    "Save",
+    1
+  ],
+  [
+    "try/except",
+    1
+  ],
+  [
+    "search",
+    1
+  ],
+  [
+    "subsequent",
+    1
+  ],
+  [
+    "//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css",
+    1
+  ],
+  [
+    "row",
+    1
+  ],
+  [
+    "method=",
+    1
+  ],
+  [
+    "action=",
+    1
+  ],
+  [
+    "h2",
+    1
+  ],
+  [
+    "Frequencies",
+    1
+  ],
+  [
+    "/h2",
+    1
+  ],
+  [
+    "table-striped",
+    1
+  ],
+  [
+    "thead",
+    1
+  ],
+  [
+    "Word",
+    1
+  ],
+  [
+    "/thead",
+    1
+  ],
+  [
+    "/table",
+    1
+  ],
+  [
+    "endif",
+    1
+  ],
+  [
+    "//code.jquery.com/jquery-1.11.0.min.js",
+    1
+  ],
+  [
+    "//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js",
+    1
+  ],
+  [
+    "statement",
+    1
+  ],
+  [
+    "Run",
+    1
+  ],
+  [
+    "wanted",
+    1
+  ],
+  [
+    "first",
+    1
+  ],
+  [
+    "ten",
+    1
+  ],
+  [
+    "keywords",
+    1
+  ],
+  [
+    "adsSummary",
+    1
+  ],
+  [
+    "Okay",
+    1
+  ],
+  [
+    "great",
+    1
+  ],
+  [
+    "Given",
+    1
+  ],
+  [
+    "massive",
+    1
+  ],
+  [
+    "amount",
+    1
+  ],
+  [
+    "//realpython.com",
+    1
+  ],
+  [
+    "happen",
+    1
+  ],
+  [
+    "fairly",
+    1
+  ],
+  [
+    "quickly",
+    1
+  ],
+  [
+    "happens",
+    1
+  ],
+  [
+    "example",
+    1
+  ],
+  [
+    "//gutenberg.ca",
+    1
+  ],
+  [
+    "notice",
+    1
+  ],
+  [
+    "takes",
+    1
+  ],
+  [
+    "longer",
+    1
+  ],
+  [
+    "hitting",
+    1
+  ],
+  [
+    "trying",
     1
   ],
   [
@@ -1384,11 +3324,55 @@
     1
   ],
   [
-    "properly",
+    "pages",
     1
   ],
   [
-    "scale",
+    "become",
+    1
+  ],
+  [
+    "problem",
+    1
+  ],
+  [
+    "perhaps",
+    1
+  ],
+  [
+    "decide",
+    1
+  ],
+  [
+    "change",
+    1
+  ],
+  [
+    "functionality",
+    1
+  ],
+  [
+    "inputs",
+    1
+  ],
+  [
+    "recursively",
+    1
+  ],
+  [
+    "entire",
+    1
+  ],
+  [
+    "calculate",
+    1
+  ],
+  [
+    "frequencies",
+    1
+  ],
+  [
+    "enough",
     1
   ],
   [
@@ -1396,183 +3380,123 @@
     1
   ],
   [
-    "increases",
+    "slow",
     1
   ],
   [
-    "First",
+    "solution",
     1
   ],
   [
-    "bash",
+    "Instead",
     1
   ],
   [
-    "script",
+    "counting",
     1
   ],
   [
-    "called",
+    "makes",
     1
   ],
   [
-    "root",
+    "backend",
     1
   ],
   [
-    "directory",
+    "exactly",
     1
   ],
   [
-    "/bin/bash",
+    "start",
     1
   ],
   [
-    "gunicorn",
+    "zip",
     1
   ],
   [
-    "daemon",
+    "reduce",
     1
   ],
   [
-    "sh",
+    "size",
     1
   ],
   [
-    "demonized",
+    "mind",
     1
   ],
   [
-    "background",
+    "non-English",
     1
   ],
   [
-    "foreground",
+    "PY3",
     1
   ],
   [
-    "Please",
+    "since",
     1
   ],
   [
-    "note",
+    "feature",
     1
   ],
   [
-    "ways",
+    "half",
     1
   ],
   [
-    "alternative",
+    "finished",
     1
   ],
   [
-    "future",
+    "git",
     1
   ],
   [
-    "interest",
+    "stage",
     1
   ],
   [
-    "Let",
+    "master",
     1
   ],
   [
-    "terminal",
+    "Comment",
     1
   ],
   [
-    "window",
+    "collaboration",
     1
   ],
   [
-    "redis-server",
+    "piece",
     1
   ],
   [
-    "forego",
+    "Cam",
     1
   ],
   [
-    "starting",
+    "Linke",
     1
   ],
   [
-    "port",
+    "co-founder",
     1
   ],
   [
-    "RQ",
+    "Startup",
     1
   ],
   [
-    "'rq",
+    "Edmonton",
     1
   ],
   [
-    "Michaels-MacBook-Air.9044",
-    1
-  ],
-  [
-    "started",
-    1
-  ],
-  [
-    "Navigate",
-    1
-  ],
-  [
-    "http",
-    1
-  ],
-  [
-    "//localhost:5000/",
-    1
-  ],
-  [
-    "Commit",
-    1
-  ],
-  [
-    "changes",
-    1
-  ],
-  [
-    "adsConclusion",
-    1
-  ],
-  [
-    "Homework",
-    1
-  ],
-  [
-    "Although",
-    1
-  ],
-  [
-    "much",
-    1
-  ],
-  [
-    "iteration",
-    1
-  ],
-  [
-    "workflow",
-    1
-  ],
-  [
-    "Links",
-    1
-  ],
-  [
-    "Repo",
-    1
-  ],
-  [
-    "Production",
+    "folks",
     1
   ],
   [
@@ -1613,14 +3537,6 @@
   ],
   [
     "Curated",
-    1
-  ],
-  [
-    "Send",
-    1
-  ],
-  [
-    "created",
     1
   ],
   [
@@ -1668,6 +3584,10 @@
     1
   ],
   [
+    "Think",
+    1
+  ],
+  [
     "Rate",
     1
   ],
@@ -1692,10 +3612,6 @@
     1
   ],
   [
-    "going",
-    1
-  ],
-  [
     "put",
     1
   ],
@@ -1705,6 +3621,10 @@
   ],
   [
     "skills",
+    1
+  ],
+  [
+    "Leave",
     1
   ],
   [
@@ -1725,6 +3645,10 @@
   ],
   [
     "useful",
+    1
+  ],
+  [
+    "comments",
     1
   ],
   [
@@ -1784,10 +3708,6 @@
     1
   ],
   [
-    "next",
-    1
-  ],
-  [
     "Live",
     1
   ],
@@ -1825,6 +3745,50 @@
   ],
   [
     "Sign-In",
+    1
+  ],
+  [
+    "Almost",
+    1
+  ],
+  [
+    "Complete",
+    1
+  ],
+  [
+    "gain",
+    1
+  ],
+  [
+    "instant",
+    1
+  ],
+  [
+    "Build",
+    1
+  ],
+  [
+    "Web",
+    1
+  ],
+  [
+    "App",
+    1
+  ],
+  [
+    "Scratch",
+    1
+  ],
+  [
+    "take",
+    1
+  ],
+  [
+    "privacy",
+    1
+  ],
+  [
+    "seriously",
     1
   ],
   [
