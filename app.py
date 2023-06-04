@@ -42,7 +42,7 @@ def home():
         no_stop_words_count.items(),
         key = operator.itemgetter(1),
         reverse = True
-      )
+      )[ : 10]
     with open(result_file, 'w') as f:
       json.dump(results, f, indent = 2)
       f.close()      
