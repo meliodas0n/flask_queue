@@ -16,7 +16,6 @@ import json
 app = Flask(__name__)
 app.config.from_object(config.APP_SETTINGS)
 result_file = 'result.json'
-RESULTS = []
 
 @app.route("/", methods = ['GET', 'POST'])
 def home():
@@ -45,21 +44,9 @@ def home():
         reverse = True
       )
     print(results)
-    try:
-      if os.path.isfile(result_file) is False:
-        with open(result_file, 'a') as f:
-          RESULTS = json.load(f)
-          RESULTS.append(results)
-          json.dump(RESULTS, result_file, indent = 2, separators = (',', ' : '))
-          f.close()
-      else:
-        with open(result_file, 'a') as f:
-          RESULTS = json.load(f)
-          RESULTS.append(results)
-          json.dump(RESULTS, result_file, indent = 2, separators = (',', ' : '))
-          f.close()
-    except Exception as e:
-      print(f"ERROR - {e}")
+    with open(result_file, 'w') as f:
+      json.dump(results, f, indent = 2)
+      f.close()      
   return render_template("home.html", errors = errors, results = results)
 
 if __name__ == "__main__":
