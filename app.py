@@ -43,7 +43,6 @@ def home():
         key = operator.itemgetter(1),
         reverse = True
       )
-    print(results)
     with open(result_file, 'w') as f:
       json.dump(results, f, indent = 2)
       f.close()      
