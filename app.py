@@ -36,7 +36,6 @@ def count_and_save_words(url):
   text = nltk.Text(tokens)
   nonPunct = re.compile('.*[A-Za-z].*')
   raw_words = [w for w in text if nonPunct.match(w)]
-  # raw_word_count = Counter(raw_words)
   no_stop_words = [w for w in raw_words if w.lower() not in stopwords.words('english')]
   no_stop_words_count = Counter(no_stop_words)
   results = sorted(
